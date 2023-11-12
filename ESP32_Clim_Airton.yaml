@@ -1,3 +1,5 @@
+# F1ATB
+# Montage : https://f1atb.fr/index.php/fr/2023/10/25/esp32-relais-alimentation-230v-ac-integres-capteurs/
 esphome:
   name: clim-airton
   friendly_name: clim-airton
